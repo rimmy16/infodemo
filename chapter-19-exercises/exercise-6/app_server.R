@@ -22,3 +22,4 @@ server <- function(input, output) {
     return(build_map(joined_data, input$mapvar))
   })
 }
+

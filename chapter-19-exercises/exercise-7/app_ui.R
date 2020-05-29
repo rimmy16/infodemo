@@ -84,3 +84,4 @@ ui <- navbarPage(
   "Electoral College",
   map_panel, 
   scatter_panel)    
+
